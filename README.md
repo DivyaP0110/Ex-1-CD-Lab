@@ -80,9 +80,10 @@ int main() {
 }
 ```
 # OUTPUT
-![Screenshot 2025-04-11 160429](https://github.com/user-attachments/assets/74e5ed62-0952-44d8-b4ce-bc9e99069355)
+![image](https://github.com/user-attachments/assets/1ab3af36-ac1d-4036-b255-c67e04ac7d70)
 
-![Screenshot 2025-04-11 160557](https://github.com/user-attachments/assets/ab4157f0-ac40-486e-80e2-71d854e2fc4f)
+![image](https://github.com/user-attachments/assets/712cf009-7b8b-4d36-8467-d857bffe4fc9)
+
 
 
 
